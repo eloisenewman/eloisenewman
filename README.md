@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello 
+- Currently working on networks, socality and the microbiome
+- How to reach me: eloise.newman@biology.ox.ac.uk
 <!--
 **eloisenewman/eloisenewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
